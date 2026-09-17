@@ -38,7 +38,7 @@ export default function AnalyticsDashboard({ refreshTrigger }) {
     return (
       <div style={{ padding: '60px', textAlign: 'center', color: '#94a3b8' }}>
         <TrendingUp size={40} style={{ animation: 'pulse 1.5s infinite', margin: '0 auto 12px auto' }} />
-        <p style={{ fontWeight: 600 }}>Aggregating business metrics...</p>
+        <p style={{ fontWeight: 600 }}>Loading business data......</p>
       </div>
     );
   }
