@@ -1,0 +1,11 @@
+{
+  "name": "smartbiz-dbms-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SmartBiz - Small Business Inventory & Sales Management DBMS System",
+  "scripts": {
+    "server": "node --watch server/server.js",
+    "client": "npm --prefix client run dev",
+    "dev": "node server/server.js"
+  }
+}

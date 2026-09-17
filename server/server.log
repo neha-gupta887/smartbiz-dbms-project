@@ -1,0 +1,7 @@
+[DB] Initializing database at C:\Users\Radha\OneDrive\Desktop\dbms\database\smartbiz.db...
+[DB] Schema loaded successfully.
+[DB] Database ready with 12 existing products.
+====================================================
+🚀 SmartBiz Backend API running on http://localhost:0
+📡 Health Check: http://localhost:0/api/health
+====================================================
